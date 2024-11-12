@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="rodapestyle.css">
+</head>
+    <!-- Conteúdo principal da página -->
+
+    <footer>
+        <div class="footer-content">
+            <p>Endereço: Rua Exemplo, 123 - Bairro Xexéu</p>
+            <p>Contato: (81) 99999-9999</p>
+        </div>
+    </footer>
+</html>

@@ -1,0 +1,14 @@
+footer {
+    background-color: #8e44ad; /* Cor de fundo desejada */
+    padding: 30px 0; /* Aumentei o padding para aumentar a altura */
+    text-align: center; /* Centraliza o texto */
+    color: #fff; /* Cor do texto */
+    margin-top: 40px; /* Espaço entre o conteúdo principal e o rodapé */
+    width: 100%; /* Certifique-se que a largura ocupe 100% */
+}
+
+.footer-content p {
+    margin: 5px 0; /* Espaço entre as linhas */
+    font-size: 14px;
+    font-weight: normal;
+}
